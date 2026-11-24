@@ -1,0 +1,5 @@
+﻿device,model,size_mb,ms_per_image,top1,top1_prob(%)
+Windows AMD64,fp32,13.34,6.84,strawberry,9.3
+Windows AMD64,dynamic,3.62,710.38,strawberry,11.1
+Windows AMD64,float16,6.71,6.59,strawberry,9.3
+Windows AMD64,int8,3.81,7.73,strawberry,11.3

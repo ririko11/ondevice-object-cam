@@ -1,0 +1,5 @@
+﻿model,size_mb,ms_per_image_pc,top1_acc_pct,top5_acc_pct,agree_with_fp32_pct
+fp32,13.34,8.40,42.8,68.8,100.0
+dynamic,3.62,829.41,40.6,70.3,88.4
+float16,6.71,7.83,42.8,68.8,99.3
+int8,3.81,9.31,39.1,70.3,84.8
